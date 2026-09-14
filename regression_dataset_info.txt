@@ -1,9 +1,0 @@
-| Dataset                |             Size | Target                  | Difficulty | What you'll learn                     |
-| ---------------------- | ---------------: | ----------------------- | ---------- | ------------------------------------- |
-| **California Housing** |       20,640 × 8 | House value             | 🟢 Easy    | Regression fundamentals               |
-| **Concrete Strength**  |        1,030 × 8 | Strength (MPa)          | 🟢 Easy    | XGBoost, feature relationships        |
-| **Ames Housing**       |           ~1,460 | Sale price              | 🟡 Medium  | Missing values + categorical encoding |
-| **Auto MPG**           |             ~400 | MPG                     | 🟡 Medium  | Small-data regression                 |
-| **Bike Sharing**       |             ~17k | Rental count            | 🟡 Medium  | Time features + forecasting           |
-| **Energy Efficiency**  |          768 × 8 | Heating/Cooling load    | 🟡 Medium  | Small-data regression                 |
-| **Online Retail II**   | ~1M transactions | Revenue-related targets | 🔴 Hard    | Real-world feature engineering        |
